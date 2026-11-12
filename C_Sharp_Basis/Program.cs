@@ -1,10 +1,17 @@
-﻿namespace C_Sharp_Basis
+﻿using System;
+namespace C_Sharp_Basis
 {
-    internal class Program
+    class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            string name = "Mustafa";
+            int leeftijd = 25;
+            
+            Console.WriteLine($"Hallo {name}, je bent {leeftijd} jaar oud!");
+            Console.ReadLine();
+            
+            
         }
     }
 }
