@@ -8,7 +8,7 @@ namespace C_Sharp_Basis
             string name = "Mustafa";
             int leeftijd = 25;
             
-            Console.WriteLine($"Hallo {name}, je bent {leeftijd} jaar oud!");
+            Console.WriteLine($"Hallo\t{name},\n je bent\t{leeftijd}\t jaar oud!");
             Console.ReadLine();
             
             
