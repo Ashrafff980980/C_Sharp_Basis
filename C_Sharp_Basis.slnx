@@ -1,4 +1,5 @@
 <Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="e2c911f4-06e5-44c7-9693-bf04ef90411b" />
   <Project Path="C_Sharp_Basis/C_Sharp_Basis.csproj" />
   <Project Path="Opdracht10/Opdracht10.csproj" Id="b0970bed-6e08-40b2-91eb-b07320b1924e" />
   <Project Path="Opdracht2/Opdracht2.csproj" />
