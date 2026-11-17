@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            int getal = 2;
+            int getal = 7;
 
             if (getal >= 1 && getal <= 5)
             {

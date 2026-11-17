@@ -1,7 +1,8 @@
 <Solution>
-  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="e2c911f4-06e5-44c7-9693-bf04ef90411b" />
+  <Project Path="ConsoleApp1/opdracht11.csproj" Id="e2c911f4-06e5-44c7-9693-bf04ef90411b" />
   <Project Path="C_Sharp_Basis/C_Sharp_Basis.csproj" />
   <Project Path="Opdracht10/Opdracht10.csproj" Id="b0970bed-6e08-40b2-91eb-b07320b1924e" />
+  <Project Path="Opdracht12/Opdracht12.csproj" Id="eef61bc5-1bf3-4d3e-b405-70827f5f07b0" />
   <Project Path="Opdracht2/Opdracht2.csproj" />
   <Project Path="Opdracht3/Opdracht3.csproj" Id="172b70e3-9dcf-49b0-aed0-cf2b18ea23a3" />
   <Project Path="Opdracht4/Opdracht4.csproj" Id="40d3eddc-3e84-4559-89e1-9b20b8ffd383" />
