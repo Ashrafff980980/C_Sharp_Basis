@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            string[] namen = { "Ashraf", "Amgad", "Anas", "Ayooub", "Akram" };
+            string[] namen = { "Ashraf", "Amgad", "Anas", "Ayooub", "Ashraf" };
 
             for (int i = 0; i < namen.Length; i++)
             {
