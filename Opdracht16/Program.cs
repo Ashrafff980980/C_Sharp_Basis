@@ -19,7 +19,7 @@
             }
 
             double getal2 = 0;
-            bool geldigGetal2 = false;
+            bool geldigGetal2 = false;  
             while (geldigGetal2 == false)
             {
                 Console.WriteLine("Voer het tweede getal in:");

@@ -15,5 +15,5 @@ namespace Opdracht18
 
             Console.ReadLine();
         }
-    }
+    }                      
 }
